@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pet_project_1_git-counter/static/css/main.135ab78d.css",
+    "main.js": "/pet_project_1_git-counter/static/js/main.3d522402.js",
+    "index.html": "/pet_project_1_git-counter/index.html",
+    "main.135ab78d.css.map": "/pet_project_1_git-counter/static/css/main.135ab78d.css.map",
+    "main.3d522402.js.map": "/pet_project_1_git-counter/static/js/main.3d522402.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.135ab78d.css",
+    "static/js/main.3d522402.js"
+  ]
+}
